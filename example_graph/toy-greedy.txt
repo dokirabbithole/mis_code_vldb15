@@ -1,0 +1,12 @@
+11 // number of vertices, starting from 0
+1 2 0 2 // first integer is vertex_id (1), followed by its degree (2), and its 2 neighbors; lines are sorted according to degree in ascending order
+6 2 8 9
+7 2 9 10
+3 3 0 4 5 
+4 3 0 2 3
+5 3 0 2 3
+8 3 0 2 6
+9 3 0 6 7
+10 3 0 2 7
+2 6 0 1 4 5 8 10
+0 8 1 2 3 4 5 8 9 10

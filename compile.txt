@@ -1,0 +1,2 @@
+// Compile example: random + 1-k-swap
+g++ -O3 -o Random_OneKSwap main.cpp

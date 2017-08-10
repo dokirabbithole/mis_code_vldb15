@@ -1,0 +1,1 @@
+Two binary files toy-random and toy-greedy have the same content as toy-random.txt and toy-greedy.txt, ordered randomly and by degree respectively. But the binary files only store the numbers in binary form (i.e., without the spaces and the comments).
